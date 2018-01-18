@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">zwc</string>
+    <string name="news_title">newsTitle</string>
+    <string name="news_sub_title">newsSubTitle</string>
+</resources>
